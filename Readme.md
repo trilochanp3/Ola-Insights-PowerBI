@@ -28,8 +28,11 @@ This project analyzes Ola booking data using MySQL and visualizes insights with 
    - Explore the interconnected sheets and visuals.
 
 ## Screenshots
-![Overall Insights](screenshots/overall.png)
-![Revenue Insights](screenshots/revenue.png)
+![Overall Insights](screenshots/Overall.png)
+![Revenue Insights](screenshots/Revenue.png)
+![Vehicle Insights](screenshots/Vehicles.png)
+![Cancellation Insights](screenshots/Cancellation.png)
+![Rating Insights](screenshots/Rating.png)
 
 ## Conclusion
 This analysis provides actionable insights for operational improvements in the ride-booking domain.
